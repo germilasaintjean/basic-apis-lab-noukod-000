@@ -1,8 +1,4 @@
-
-
-
-
-     class RepositoriesController < ApplicationController
+class RepositoriesController < ApplicationController
 
      def search
 
